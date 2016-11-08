@@ -7,11 +7,11 @@ Dump site for useful code snippets (ctrl+c ctrl+v > writing and rewriting over a
 
 ## print_table
 
-### Description
+#### *Description*
 
 Prints a table from a given array of arrays of strings. Programmer can customize the look of the table.
 
-### Sample
+#### *Sample*
 ~~~~
 [alexander@mycoolpc utils]$ ./print_table.py
 ╔═══════════╦═══════════╦═══════════╦═══════════╗
@@ -22,5 +22,5 @@ Prints a table from a given array of arrays of strings. Programmer can customize
 ║ 0         ║ x         ║           ║ alexander ║
 ╚═══════════╩═══════════╩═══════════╩═══════════╝
 ~~~~
-### Todo
+#### *Todo*
 * ~Nothing~
