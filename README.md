@@ -11,5 +11,15 @@ Dump site for useful code snippets (ctrl+c ctrl+v > writing and rewriting over a
 
 Prints a table from a given array of arrays of strings. Programmer can customize the look of the table.
 
+### Sample
+
+╔═══════════╦═══════════╦═══════════╦═══════════╗
+║ o         ║ o         ║ x         ║           ║
+╠═══════════╬═══════════╬═══════════╬═══════════╣
+║           ║ x         ║           ║           ║
+╠═══════════╬═══════════╬═══════════╬═══════════╣
+║ 0         ║ x         ║           ║ alexander ║
+╚═══════════╩═══════════╩═══════════╩═══════════╝
+
 ### Todo
 * ~Nothing~
