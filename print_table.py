@@ -1,7 +1,17 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 
 def display(field):
 
+	"""
+	tableStyle = [
+		[unicode("┌─┬─┐",'utf8')],
+		[unicode("│ │ │",'utf8')],
+		[unicode("├─┼─┤",'utf8')],
+		[unicode("│ │ │",'utf8')],
+		[unicode("└─┴─┘",'utf8')],
+	]
+	"""
+	
 	tableStyle=[
 		["╔","═","╦","═","╗"],
 		["║"," ","║"," ","║"],
