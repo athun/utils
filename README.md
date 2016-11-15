@@ -29,7 +29,7 @@ Tested on Python 3.5.2 running on 4.8.4-1-Arch Linux.
 ╚═══════════╩═══════════╩═══════════╩═══════════╝
 ~~~~
 #### *Todo*
-* !Make rows only as wide as its widest elements (not as wide as the widest global element)
+* !Make columns only as wide as its widest element (not as wide as the widest global element)
 * Let programmer change fallback fill string (is now simply `" "`), e.g. `"?"` (as desired)
 * Fix error in Python2
 * Add "tableStyle" argument
