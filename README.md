@@ -29,4 +29,5 @@ Tested on Python 3.5.2 running on 4.8.4-1-Arch Linux.
 ╚═══════════╩═══════════╩═══════════╩═══════════╝
 ~~~~
 #### *Todo*
-* nothing
+* Let programmer change fallback fill string (is now simply `" "`), e.g. `"?"` (as desired)
+
